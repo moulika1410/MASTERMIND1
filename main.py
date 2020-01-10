@@ -47,6 +47,7 @@ else:
                 correct[i] = n[i]
             else:
                 continue
+                
 
         # when not all the digits are guessed correctly.
         if (count < 4) and (count != 0):
