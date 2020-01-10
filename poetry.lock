@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Pure Python, cross platform, single function module with no dependencies for playing sounds."
+name = "playsound"
+optional = false
+python-versions = "*"
+version = "1.2.2"
+
+[metadata]
+content-hash = "91977857bdeaa22b55720d43e68dd81758031cc24489ddfc78097d472f99c2c5"
+python-versions = "^3.7"
+
+[metadata.hashes]
+playsound = ["1e83750a5325cbccee03d6e751ba3e78c037ac95b95a3ba1f38d0c5aca9e1a34"]
